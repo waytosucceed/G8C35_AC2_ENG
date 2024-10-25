@@ -1,0 +1,326 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Convert the following present perfect continuous affirmative sentence to past perfect continuous affirmative sentence: 'She has been studying for three hours.'",
+        "options": [
+            "She had been studying for three hours.",
+            "She has been studying for three hours.",
+            "She had studied for three hours.",
+            "She was studying for three hours."
+        ],
+        "correct": 0,
+        "explanation": "In past perfect continuous tense, we use 'had been' followed by the present participle (verb + -ing). The sentence 'She has been studying for three hours' becomes 'She had been studying for three hours' to indicate an action that was ongoing in the past before another action."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Convert the following present perfect continuous interrogative sentence to past perfect continuous interrogative sentence: 'Have you been waiting for me?'",
+        "options": [
+            "Had you been waiting for me?",
+            "Have you been waiting for me?",
+            "Were you waiting for me?",
+            "Had you waited for me?"
+        ],
+        "correct": 0,
+        "explanation": "In past perfect continuous tense, the interrogative form uses 'had' followed by the subject and 'been' plus the present participle. The sentence 'Have you been waiting for me?' becomes 'Had you been waiting for me?' to ask about an ongoing action that was happening before another past event."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Convert the following present perfect continuous interrogative negative sentence to past perfect continuous interrogative negative sentence: 'Has she not been practising her piano?'",
+        "options": [
+            "Has she not been practising her piano?",
+            "Had she not been practising her piano?",
+            "Was she not practising her piano?",
+            "Had she not practised her piano?"
+        ],
+        "correct": 1,
+        "explanation": "In the past perfect continuous tense, the interrogative negative form uses 'had' followed by the subject, 'not been,' and the present participle. The sentence 'Has she not been practising her piano?' changes to 'Had she not been practising her piano?' to reflect a negative action that was ongoing in the past before another event."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Convert the present perfect continuous affirmative sentence 'She has been studying for the exam for three hours.' to a past perfect continuous interrogative sentence.",
+        "options": [
+            "Was she been studying for the exam for three hours?",
+            "Had she been studying for the exam for three hours?",
+            "Did she been studying for the exam for three hours?",
+            "Had she studying for the exam for three hours?"
+        ],
+        "correct": 1,
+        "explanation": "To convert the present perfect continuous affirmative sentence ('She has been studying for the exam for three hours.') to a past perfect continuous interrogative, change the auxiliary verb 'has' (present perfect) to 'had' (past perfect) to reflect an action that was ongoing before a certain time in the past. The phrase 'been studying' remains unchanged, as it is necessary for forming both present perfect continuous and past perfect continuous tenses. Placing 'had' at the beginning of the sentence creates the interrogative structure, making the correct form 'Had she been studying for the exam for three hours?'"
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Convert the present perfect continuous negative sentence 'He has not been working on the project for weeks.' to a past perfect continuous interrogative negative sentence.",
+        "options": [
+            "Did he not been working on the project for weeks?",
+            "Had he not working on the project for weeks?",
+            "Had he not been working on the project for weeks?",
+            "Was he not been working on the project for weeks?"
+        ],
+        "correct": 2,
+        "explanation": "To convert the present perfect continuous negative sentence ('He has not been working on the project for weeks.') to a past perfect continuous interrogative negative, the auxiliary 'has' changes to 'had' to indicate the past perfect tense, and 'not' remains to keep the negative form. The phrase 'been working' stays intact because it is required to form the continuous aspect in both present and past perfect continuous tenses. To make it interrogative, 'had' is placed at the beginning, followed by 'he,' 'not,' and the continuous form 'been working.' The correct conversion is 'Had he not been working on the project for weeks?'"
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Spot the error in the following question: 'She has being working hard to complete the project.'",
+        "options": [
+            "'has being' should be 'has been'",
+            "'working' should be 'worked'",
+            "'hard' should be removed",
+            "No error"
+        ],
+        "correct": 0,
+        "explanation": "In the present perfect continuous tense, we use 'has/have been' + the present participle (verb + -ing). 'Being' is incorrect here; the correct form is 'has been working.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Spot the error in the following sentence: 'The researchers has been conducting experiments for the past six months.'",
+        "options": [
+            "'has been' should be 'have been'",
+            "'conducting' should be 'conduct'",
+            "'for the past' should be 'since the past'",
+            "No error"
+        ],
+        "correct": 0,
+        "explanation": "The subject 'researchers' is plural, so the verb should be 'have been,' not 'has been.' In the present perfect continuous tense, 'have been' is used with plural subjects."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Spot the error in the following question: 'Have they been working on this project since three months?'",
+        "options": [
+            "'Have' should be 'Has'",
+            "'since' should be 'for'",
+            "'working' should be 'worked'",
+            "No error"
+        ],
+        "correct": 1,
+        "explanation": "The word 'since' is used for specific points in time, whereas 'for' is used for durations. 'Three months' is a duration, so the correct sentence should be 'for three months.'"
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank: 'The scientists ______ (work) on the new vaccine for over five years, and they are now close to a breakthrough.'",
+        "options": [
+            "has been worked",
+            "has been working",
+            "have been working",
+            "had been working"
+        ],
+        "correct": 2,
+        "explanation": "The subject 'scientists' is plural, so 'have been' is needed. The structure of the present perfect continuous is 'have/has been' + present participle (verb + -ing). Thus, 'have been working' is correct."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Fill in the blank: 'He ______ (not attend) his music classes regularly because of his busy schedule for the past few months.'",
+        "options": [
+            "has not been attending",
+            "has not attended",
+            "had not attended",
+            "have not been attending"
+        ],
+        "correct": 0,
+        "explanation": "The subject 'he' is singular, so the correct form is 'has.' The negative form of present perfect continuous is 'has/have not been' + present participle. The correct answer is 'has not been attending.'"
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Fill in the blank: '______ (you/wait) for the bus for the last hour?'",
+        "options": [
+            "Are you been waiting",
+            "Have you been waiting",
+            "Were you been waiting",
+            "Had you been waiting"
+        ],
+        "correct": 1,
+        "explanation": "In the interrogative form of the present perfect continuous, 'have/has' comes before the subject, followed by 'been' and the present participle. The correct structure is 'Have you been waiting.'"
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blank: '______ (he/not study) for the exam since last week?'",
+        "options": [
+            "Hasn’t he been studying",
+            "Haven’t he been studying",
+            "Hadn’t he been studying",
+            "Isn’t he been studying"
+        ],
+        "correct": 0,
+        "explanation": "In interrogative negative sentences, the structure is 'Hasn’t/Have not' + subject + 'been' + present participle. 'He' is singular, so 'Hasn’t' is the correct auxiliary verb."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank: 'Before the company launched the new product, they ______ (develop) it for nearly three years.'",
+        "options": [
+            "have been developing",
+            "had developed",
+            "had been developing",
+            "were developing"
+        ],
+        "correct": 2,
+        "explanation": "In the past perfect continuous tense, 'had been' + present participle is used to show an ongoing action before another event in the past. The correct form is 'had been developing.'"
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Fill in the blank: 'She ______ (not practise) for the competition until her coach intervened.'",
+        "options": [
+            "had not been practising",
+            "has not been practising",
+            "had not been practise",
+            "has not practised"
+        ],
+        "correct": 0,
+        "explanation": "In negative past perfect continuous sentences, the structure is 'had not been' + present participle. The correct form is 'had not been practising.'"
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Fill in the blank: 'The engineers ______ (try) to solve the technical issue for over two days without success.'",
+        "options": [
+            "has been trying",
+            "had been trying",
+            "have been trying",
+            "have trying"
+        ],
+        "correct": 2,
+        "explanation": "The subject 'engineers' is plural, so the auxiliary verb must be 'have' rather than 'has.' The structure of the present perfect continuous tense is 'have/has been' + present participle (verb + -ing). 'Have been trying' is correct."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Fill in the blank: 'She ______ (not sleep) well lately because of stress at work.'",
+        "options": [
+            "has not been sleeping",
+            "have not been sleeping",
+            "had not been sleeping",
+            "has not sleeping"
+        ],
+        "correct": 0,
+        "explanation": "The subject 'she' is singular, so the auxiliary verb must be 'has.' In the negative form of present perfect continuous, the structure is 'has/have not been' + present participle (verb + -ing). The correct answer is 'has not been sleeping.'"
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Fill in the blank: 'The company ______ (expand) its operations internationally for five years before the economic crisis hit.'",
+        "options": [
+            "has been expanding",
+            "had been expanding",
+            "had expanded",
+            "have been expanding"
+        ],
+        "correct": 1,
+        "explanation": "The past perfect continuous is used to describe an action that was ongoing before another past event. The structure is 'had been' + present participle. The correct form is 'had been expanding.'"
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Fill in the blank: 'The artist ______ (not paint) regularly before the exhibition was announced.'",
+        "options": [
+            "has not been painting",
+            "had not been painting",
+            "had not been paint",
+            "have not been painting"
+        ],
+        "correct": 1,
+        "explanation": "The past perfect continuous tense requires 'had been' for actions ongoing before a past event. In the negative form, the structure is 'had not been' + present participle. The correct form is 'had not been painting.'"
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Identify the tense used in the sentence: 'They have been running the marathon for nearly three hours now.'",
+        "options": [
+            "Present Continuous",
+            "Present Perfect Continuous",
+            "Past Perfect Continuous",
+            "Past Continuous"
+        ],
+        "correct": 1,
+        "explanation": "The present perfect continuous tense describes an action that started in the past and continues up to the present moment. The structure is 'have/has been' + present participle (verb + -ing). In this sentence, 'have been running' follows this pattern, making it present perfect continuous."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Identify the tense used in the question: 'Have they been working on the new strategy for a long time?'",
+        "options": [
+            "Present Continuous",
+            "Past Perfect Continuous",
+            "Present Perfect Continuous",
+            "Past Continuous"
+        ],
+        "correct": 2,
+        "explanation": "In the interrogative form of the present perfect continuous, the structure is 'Have/Has' + subject + 'been' + present participle. The sentence 'Have they been working' indicates an action that started in the past and is being questioned in the present, making it present perfect continuous."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Identify the tense used in the question: 'Hasn’t she been practising for the performance?'",
+        "options": [
+            "Past Perfect Continuous",
+            "Present Perfect Continuous",
+            "Present Continuous",
+            "Past Continuous"
+        ],
+        "correct": 1,
+        "explanation": "In the interrogative negative form of the present perfect continuous, the structure is 'Hasn’t' (Has + not) + subject + 'been' + present participle. 'Hasn’t she been practising' refers to an ongoing action starting in the past and continuing into the present."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Identify the tense used in the sentence: 'They had been negotiating the contract for several weeks before the final agreement was reached.'",
+        "options": [
+            "Present Perfect Continuous",
+            "Past Continuous",
+            "Past Perfect Continuous",
+            "Present Continuous"
+        ],
+        "correct": 2,
+        "explanation": "The past perfect continuous tense describes an action that was ongoing for some time in the past before another event. The structure is 'had been' + present participle. In this case, 'had been negotiating' refers to an action (negotiation) that continued over a period of time before the final agreement was reached."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Choose the correct form of the verb: 'The researchers ______ (work) on the project for six months now.'",
+        "options": [
+            "have been working",
+            "had been working",
+            "have worked",
+            "has been working"
+        ],
+        "correct": 0,
+        "explanation": "The subject 'researchers' is plural, so 'have' is used. The present perfect continuous structure is 'have/has been' + present participle. 'Have been working' describes an action that started in the past and continues into the present."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Choose the correct form of the verb: 'Before the company launched its product, they ______ (test) it thoroughly for months.'",
+        "options": [
+            "had been testing",
+            "have been testing",
+            "were testing",
+            "had testing"
+        ],
+        "correct": 0,
+        "explanation": "The past perfect continuous describes an action that was ongoing before another past event. The structure is 'had been' + present participle. 'Had been testing' is correct because it indicates that the testing was happening before the product launch."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Choose the correct form of the verb: '______ (she/wait) for the train long before it finally arrived?'",
+        "options": [
+            "Has she been waiting",
+            "Had she been waiting",
+            "Have she been waiting",
+            "Hadn’t she been waiting"
+        ],
+        "correct": 1,
+        "explanation": "In the interrogative form of past perfect continuous, the structure is 'Had' + subject + 'been' + present participle. 'Had she been waiting' is correct because it asks about an ongoing action before another past event (the arrival of the train)."
+    },
+    {
+        "questionNo": "Q26.",
+        "question": "Choose the correct form of the verb: '______ (they/not attend) the meetings regularly before the policy change?'",
+        "options": [
+            "Hadn’t they been attending",
+            "Have they not been attending",
+            "Hasn’t they been attending",
+            "Had they not attending"
+        ],
+        "correct": 0,
+        "explanation": "The correct structure for an interrogative negative sentence in the past perfect continuous tense is 'Hadn’t' (Had + not) + subject + 'been' + present participle. 'Hadn’t they been attending' refers to an action that wasn’t happening consistently before a past event, making it the correct form."
+    },
+    {
+        "questionNo": "Q27.",
+        "question": "Fill in the blank: 'By the time I arrived, he ______ (sleep) for several hours.'",
+        "options": [
+            "has been sleeping",
+            "had been sleeping",
+            "have been sleeping",
+            "was sleeping"
+        ],
+        "correct": 1,
+        "explanation": "The past perfect continuous tense is used to describe an action that was ongoing before a specific point in the past. The structure is 'had been' + present participle. 'Had been sleeping' is correct because it describes the action of sleeping that occurred before 'I arrived.'"
+    }
+]
